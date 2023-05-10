@@ -3,7 +3,7 @@ Nama Program  : insertion.c
 Deskripsi     : Mengurutkan data dalam indeks secara descending menggunakan metode insertion sorting.
 Nama Pembuat  : Bintang Syafrian Rizal
 NIM           : 24060122120031
-Tanggal       : 11 Mei 2023 00:41
+Tanggal       : 10 Mei 2023 23:28
 */
 
 #include <stdio.h>
